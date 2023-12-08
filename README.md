@@ -4,4 +4,5 @@ Welcome to my Data Science Projects Portfolio! In this repository, you'll encoun
 
 ## Projects
 1. [Ashes Cricket Performance Analysis](https://github.com/THEjasonjiang/myPortfolio/tree/main/Ashes%20Cricket%20Performance%20Analysis)
+
 This project employs data science techniques and visualisations to analyse the performance of teams and players in the historic and prestigious Ashes cricket series. The Ashes, contested between England and Australia, is one of the oldest and most revered rivalries in international cricket. The project will utilise various data sources, including match statistics, player records, and contextual information, to gain insights into the factors influencing team and player performance.
