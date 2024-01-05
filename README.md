@@ -9,4 +9,8 @@ This project employs web scraping and visualisation techniques to analyse the pe
 
 2. [Password Strength Classifier](https://github.com/THEjasonjiang/myPortfolio/tree/main/Password%20Strength%20Classifier)
 
-The password strength classifier data science project aims to develop a robust and accurate model for assessing the security of user-generated passwords. This project seeks to categorise passwords into distinct strength levels, ranging from weak to strong. The project intends to incorporate features such as password length and character diversity to improve the classifier's ability to discern resilient passwords from vulnerable ones, contributing to a more nuanced and reliable assessment of password strength.
+The Password Strength Classifier Project aims to develop a robust and accurate model for assessing the security of user-generated passwords. This project seeks to categorise passwords into distinct strength levels, ranging from weak to strong. The project intends to incorporate features such as password length and character diversity to improve the classifier's ability to discern resilient passwords from vulnerable ones, contributing to a more nuanced and reliable assessment of password strength.
+
+3. [Movie Revenue Prediction](https://github.com/THEjasonjiang/myPortfolio/tree/main/Password%20Strength%20Classifier)
+
+The Movie Revenue Prediction Project attempts to leverage advanced predictive modeling techniques to forecast the financial success of upcoming films in the entertainment industry. By analyzing historical box office data, genre trends, marketing budgets, and other relevant factors, the project aims to develop a robust algorithm capable of accurately predicting the potential revenue for a given movie.
