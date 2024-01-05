@@ -6,3 +6,7 @@ Welcome to my Data Science Project Repository! Here, you'll encounter a diverse 
 1. [Ashes Cricket Performance Analysis](https://github.com/THEjasonjiang/myPortfolio/tree/main/Ashes%20Cricket%20Performance%20Analysis)
 
 This project employs web scraping and visualisation techniques to analyse the performance of teams and players in the historic and prestigious Ashes cricket series. The Ashes, contested between England and Australia, is one of the oldest and most revered rivalries in international cricket. The project will utilise various data sources, including match statistics, player records, and contextual information, to gain insights into the factors influencing team and player performance.
+
+2. [Password Strength Classifier](https://github.com/THEjasonjiang/myPortfolio/tree/main/Password%20Strength%20Classifier)
+
+The password strength classifier data science project aims to develop a robust and accurate model for assessing the security of user-generated passwords. This project seeks to categorise passwords into distinct strength levels, ranging from weak to strong. The project intends to incorporate features such as password length and character diversity to improve the classifier's ability to discern resilient passwords from vulnerable ones, contributing to a more nuanced and reliable assessment of password strength.
