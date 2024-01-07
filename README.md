@@ -17,4 +17,4 @@ The Movie Revenue Prediction Project attempts to leverage advanced predictive mo
 
 4. [Traffic Sign Detection](https://github.com/THEjasonjiang/myPortfolio/tree/main/Traffic%20Sign%20Detection)
 
-A Traffic Sign Detection project utilising TensorFlow is designed to enhance road safety by automating the identification and interpretation of traffic signs. Leveraging the power of machine learning, TensorFlow is employed to develop a CNN model capable of recognising various traffic sign categories from images or video feeds.
+A Traffic Sign Detection project utilising TensorFlow is designed to enhance road safety by automating the identification and interpretation of traffic signs. Leveraging the power of machine learning, TensorFlow is employed to develop a CNN model capable of recognising various traffic sign categories from images.
