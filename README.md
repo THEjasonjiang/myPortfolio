@@ -13,4 +13,8 @@ The Password Strength Classifier Project aims to develop a robust and accurate m
 
 3. [Movie Revenue Prediction](https://github.com/THEjasonjiang/myPortfolio/tree/main/Password%20Strength%20Classifier)
 
-The Movie Revenue Prediction Project attempts to leverage advanced predictive modeling techniques to forecast the financial success of upcoming films in the entertainment industry. By analyzing historical box office data, genre trends, marketing budgets, and other relevant factors, the project aims to develop a robust algorithm capable of accurately predicting the potential revenue for a given movie.
+The Movie Revenue Prediction Project attempts to leverage advanced predictive modeling techniques to forecast the financial success of upcoming films in the entertainment industry. By analysing historical box office data, genre trends, marketing budgets, and other relevant factors, the project aims to develop a robust algorithm capable of accurately predicting the potential revenue for a given movie.
+
+4. [Traffic Sign Detection](https://github.com/THEjasonjiang/myPortfolio/tree/main/Traffic%20Sign%20Detection)
+
+A Traffic Sign Detection project utilising TensorFlow is designed to enhance road safety by automating the identification and interpretation of traffic signs. Leveraging the power of machine learning, TensorFlow is employed to develop a CNN model capable of recognising various traffic sign categories from images or video feeds.
