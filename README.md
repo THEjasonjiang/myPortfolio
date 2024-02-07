@@ -21,4 +21,4 @@ A Traffic Sign Detection project utilising TensorFlow is designed to enhance roa
 
 5. [Digit Recognition using PyTorch](https://github.com/THEjasonjiang/myPortfolio/tree/main/Digit%20Recognition%20using%20PyTorch)
 
-The Digit Recognition project utilises PyTorch, a powerful deep learning framework, to tackle the classic problem of recognising handwritten digits from the MNIST dataset. Leveraging convolutional neural networks (CNNs), multi-layer perceptrons (MLPs), and deep learning techniques, the model is trained on a vast collection of labeled images to accurately classify digits from 0 to 9.
+The Digit Recognition project utilises PyTorch, a powerful deep learning framework, to tackle the classic problem of recognising handwritten digits from the MNIST dataset. Leveraging convolutional neural networks (CNNs), multi-layer perceptrons (MLPs), and deep learning techniques, the models are trained on a vast collection of labeled images to accurately classify digits from 0 to 9.
